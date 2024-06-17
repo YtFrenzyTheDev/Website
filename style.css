@@ -1,0 +1,41 @@
+.title {
+    text-align: center;
+    font-size: 3em;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    border: rgb(0, 0, 0) solid;
+    border-radius: 50px;
+    background-image: url(Images/vecteezy_night-sky-with-stars-sparkling-on-black-background_6262424.jpg);
+    background-size: 500px;
+
+}
+
+.home-button {
+    width: 27px;
+    position: absolute;
+    top: 25px;
+    left: 50px;
+    
+}
+
+.profile {
+    width: 27px;
+    position: absolute;
+    top: 25px;
+    right: 50px;
+}
+
+.contact-us {
+    width: 29px;
+    position: absolute;
+    top: 25px;
+    left: 100px;
+}
+
+.settings {
+    width: 29px;
+    position: absolute;
+    top: 25px;
+    left: 150px;
+}
